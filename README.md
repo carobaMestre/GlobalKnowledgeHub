@@ -3,8 +3,11 @@
 # 🌐 GlobalKnowledgeHub | [Português 🇧🇷](README.pt-br.md)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
+
 ![Languages](https://img.shields.io/badge/SUPPORTED_LANGUAGES-🇺🇸_EN,_🇧🇷_PT--BR,_🚧_ES_(Soon)-informational)
+
 ![Overleaf](https://img.shields.io/badge/PDF_Editor-Overleaf-47A141?logo=overleaf)
 
 **A Collaborative Multilingual Repository for Technical Knowledge Sharing**  
@@ -87,8 +90,11 @@ Attribution must include:
 # 🌐 GlobalKnowledgeHub | [English 🇺🇸](README.md)
 
 [![Licença: CC BY 4.0](https://img.shields.io/badge/Licença-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 [![PRs Bem-vindos](https://img.shields.io/badge/PRs-bem--vindos-brightgreen.svg)](https://makeapullrequest.com)
+
 ![Idiomas](https://img.shields.io/badge/IDIOMAS-🇧🇷_PT--BR,_🇺🇸_EN,_🚧_ES_(Em_Breve)-informational)
+
 ![Overleaf](https://img.shields.io/badge/Editor_PDF-Overleaf-47A141?logo=overleaf)
 
 **Repositório Multilíngue para Compartilhamento de Conhecimento Técnico**  
