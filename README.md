@@ -3,12 +3,9 @@
 # 🌐 GlobalKnowledgeHub | [Português 🇧🇷](README.pt-br.md)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
-
-![Languages](https://img.shields.io/badge/SUPPORTED_LANGUAGES-🇺🇸_EN,_🇧🇷_PT--BR,_🚧_ES_(Soon)-informational)
-
-![Overleaf](https://img.shields.io/badge/PDF_Editor-Overleaf-47A141?logo=overleaf)
+[![Languages](https://img.shields.io/badge/SUPPORTED_LANGUAGES-🇺🇸_EN,_🇧🇷_PT--BR,_🚧_ES_(Soon)-informational)](https://github.com/your-repo)
+[![Overleaf](https://img.shields.io/badge/PDF_Editor-Overleaf-47A141?logo=overleaf)](https://www.overleaf.com)
 
 **A Collaborative Multilingual Repository for Technical Knowledge Sharing**  
 Empowering global contributors to publish articles in their native language + English translation.
